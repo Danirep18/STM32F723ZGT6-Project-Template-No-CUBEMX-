@@ -1,0 +1,4 @@
+../Core/Src/main_init.c:14:6:System_Start	8	static
+../Core/Src/main_init.c:22:6:UART1_Init	8	static
+../Core/Src/main_init.c:37:6:Osc_Init	8	static
+../Core/Src/main_init.c:59:6:Clk_Init	8	static
